@@ -28,3 +28,9 @@ Future Roadmap
 * Storage backend that password protects archive of assets
 * Storage backend that communicates with configurable RESTful 
   api to generate a Product Key for the customer.
+
+
+Contributing
+============
+
+see ./CONTRIBUTE.md
